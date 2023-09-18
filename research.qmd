@@ -1,0 +1,22 @@
+---
+title: "Deserts"
+subtitle: "For the sweet-toothers out there."
+title-block-banner: true
+editor: visual
+toc-location: left
+number-sections: true
+---
+
+## Romeu and Julieta
+
+![](romeuejulieta.jpeg)
+
+This beloved desert is a mix of sweet from the guava jelly and salty from fresh cheese. Guava is a tropical fruit native to Mexico.
+
+![Guava fruit](guava.jpeg)
+
+## Brigadeiro
+
+![Brigadeiros](brigadeiro.jpeg)
+
+A Brazilian sweet made from sweet condensed milk, chocolate powder, butter, and sprinkles. It is usually served at birthday parties.

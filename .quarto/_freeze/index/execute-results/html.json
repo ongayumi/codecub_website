@@ -1,0 +1,14 @@
+{
+  "hash": "848447193092aa56ab0025b558cf9905",
+  "result": {
+    "markdown": "---\ntitle: \"Let's learn about Brazilian cuisine!\"\n---\n\n\nBrazilian cuisine is very diverse, adapting practices from all over the world.\n\n\n\n\n\n\n\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

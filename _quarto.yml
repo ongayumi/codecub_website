@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Brazilian Dishes"
+  favicon: "Flag_of_Brazil.png"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+        icon: globe-americas
+      - href: about.qmd
+        text: "Salty food"
+        icon: chevron-bar-right
+      - href: research.qmd
+        text: "Sweet food"
+        icon: chevron-bar-right
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

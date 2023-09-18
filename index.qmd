@@ -1,0 +1,22 @@
+---
+title: "Let's learn about Brazilian cuisine!"
+---
+
+Brazilian cuisine is very diverse, adapting practices from all over the world.
+
+
+
+
+
+
+
+
+
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
