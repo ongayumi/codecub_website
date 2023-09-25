@@ -3,9 +3,14 @@ project:
   output-dir: docs
 
 website:
+  repo-url: https://github.com/ongayumi/codecub_website
+  repo-actions: [edit,issue]
   title: "Brazilian Dishes"
   favicon: "Flag_of_Brazil.png"
   navbar:
+    right: 
+      - href: "https://github.com/ongayumi/codecub_website"
+        icon: github
     left:
       - href: index.qmd
         text: Home
