@@ -1,0 +1,8 @@
+---
+title: "README"
+output: html_document
+date: "2023-09-25"
+---
+##This is the repository for a practice website for Code Club
+
+- OSU Code Club: https://osu-codeclub.github.io
