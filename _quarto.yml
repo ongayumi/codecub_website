@@ -16,17 +16,32 @@ website:
         text: Home
         icon: globe-americas
       - href: about.qmd
+        text: About
+      - href: salty-food.qmd
         text: "Salty food"
         icon: chevron-bar-right
-      - href: research.qmd
+      - href: sweet-food.qmd
         text: "Sweet food"
         icon: chevron-bar-right
+      - text: Occasions
+        menu:
+        - text: Birthday Parties
+          href: pages/setup.qmd
+        - text: Christmas
+          href: pages/r_resources.qmd
+        - text: New Year
+          href: pages/setup.qmd
+        - text: Picnic
+          href: pages/setup.qmd
+        - text: Snacks
+          href: pages/setup.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
+    mainfont: Proxima Nova
 
 
 

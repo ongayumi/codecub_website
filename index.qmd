@@ -4,19 +4,14 @@ title: "Let's learn about Brazilian cuisine!"
 
 Brazilian cuisine is very diverse, adapting practices from all over the world.
 
+But how qualified am I to talk about Brazilian food?🤔
 
+I am Evelyn, from Brazil! 🙃 I have created this website to present to you, my new friends, what it was like growing up in Brazil food-wise. My experience with food is very diverse since my mother grew up in another state of Brazil (near the sea), and my family has some roots in Japan. Be aware that other Brazilian experiences may differ.
 
+This website was created during my activities in the Code Club at The Ohio State University. If you want to know more about this club, feel free to visit their website:
 
-
-
-
-
-
+<https://osu-codeclub.github.io/>
 
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```

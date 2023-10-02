@@ -1,49 +1,49 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Let’s learn about Brazilian cuisine!",
+    "section": "",
+    "text": "Brazilian cuisine is very diverse, adapting practices from all over the world.\nBut how qualified am I to talk about Brazilian food?🤔\nI am Evelyn, from Brazil! 🙃 I have created this website to present to you, my new friends, what it was like growing up in Brazil food-wise. My experience with food is very diverse since my mother grew up in another state of Brazil (near the sea), and my family has some roots in Japan. Be aware that other Brazilian experiences may differ.\nThis website was created during my activities in the Code Club at The Ohio State University. If you want to know more about this club, feel free to visit their website:\nhttps://osu-codeclub.github.io/\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "salty-food.html",
+    "href": "salty-food.html",
     "title": "Salty food",
     "section": "",
     "text": "Brazilian hot-dog vary in the states and can have toppings:\n\ndiced tomatoes and onions;\ncorn;\npeas;\nbacon;\ncheddar cheese;\ncream cheese;\ngrated cheese;\nmashed potatoes;\nketchup, mayo, and mustard."
   },
   {
-    "objectID": "about.html#brazilian-hot-dog",
-    "href": "about.html#brazilian-hot-dog",
+    "objectID": "salty-food.html#brazilian-hot-dog",
+    "href": "salty-food.html#brazilian-hot-dog",
     "title": "Salty food",
     "section": "",
     "text": "Brazilian hot-dog vary in the states and can have toppings:\n\ndiced tomatoes and onions;\ncorn;\npeas;\nbacon;\ncheddar cheese;\ncream cheese;\ngrated cheese;\nmashed potatoes;\nketchup, mayo, and mustard."
   },
   {
-    "objectID": "about.html#pizza",
-    "href": "about.html#pizza",
+    "objectID": "salty-food.html#pizza",
+    "href": "salty-food.html#pizza",
     "title": "Salty food",
     "section": "2 Pizza",
     "text": "2 Pizza\n\nBrazilian-style pizza is also very different from the ones seen in the US. The picture represents a type of pizza called “Portuguesa” (Portuguese). The toppings of this pizza are:\n\ntomato sauce;\nmozzarella cheese;\ntomato;\nhard-boiled eggs;\nonions;\nham;\nchouriço sausage;\ngreen bell peppers;\nolives;\noregano."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Let’s learn about Brazilian cuisine!",
-    "section": "",
-    "text": "Brazilian cuisine is very diverse, adapting practices from all over the world.\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
+    "objectID": "sweet-food.html",
+    "href": "sweet-food.html",
     "title": "Deserts",
     "section": "",
     "text": "This beloved desert is a mix of sweet from the guava jelly and salty from fresh cheese. Guava is a tropical fruit native to Mexico.\n\n\n\nGuava fruit"
   },
   {
-    "objectID": "research.html#romeu-and-julieta",
-    "href": "research.html#romeu-and-julieta",
+    "objectID": "sweet-food.html#romeu-and-julieta",
+    "href": "sweet-food.html#romeu-and-julieta",
     "title": "Deserts",
     "section": "",
     "text": "This beloved desert is a mix of sweet from the guava jelly and salty from fresh cheese. Guava is a tropical fruit native to Mexico.\n\n\n\nGuava fruit"
   },
   {
-    "objectID": "research.html#brigadeiro",
-    "href": "research.html#brigadeiro",
+    "objectID": "sweet-food.html#brigadeiro",
+    "href": "sweet-food.html#brigadeiro",
     "title": "Deserts",
     "section": "2 Brigadeiro",
     "text": "2 Brigadeiro\n\n\n\nBrigadeiros\n\n\nA Brazilian sweet made from sweet condensed milk, chocolate powder, butter, and sprinkles. It is usually served at birthday parties."
